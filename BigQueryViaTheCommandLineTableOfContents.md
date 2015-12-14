@@ -1,0 +1,13 @@
+  * Getting Started with Bigquery Via the Command Line
+    * [Logging in](GettingStartedwithBigQueryViaTheCommandLine#Logging_in.md)
+    * [Working with datasets](GettingStartedwithBigQueryViaTheCommandLine#Working_with_datasets.md)
+      * [Setting a default dataset](GettingStartedwithBigQueryViaTheCommandLine#Setting_a_default_dataset.md)
+    * [Working with tables](GettingStartedwithBigQueryViaTheCommandLine#Working_with_tables.md)
+      * [Loading data into tables](GettingStartedwithBigQueryViaTheCommandLine#Loading_data_into_tables.md)
+      * [Querying tables](GettingStartedwithBigQueryViaTheCommandLine#Querying_tables.md)
+      * [Working with tables](GettingStartedwithBigQueryViaTheCommandLine#Working_with_tables.md)
+    * [Extracting data from Bigquery](GettingStartedwithBigQueryViaTheCommandLine#Extracting_data_from_Bigquery.md)
+    * [Shell Mode](GettingStartedwithBigQueryViaTheCommandLine#Shell_Mode.md)
+    * [Personalizing bq](GettingStartedwithBigQueryViaTheCommandLine#Personalizing_bq.md)
+    * [Asynchronous Operation](GettingStartedwithBigQueryViaTheCommandLine#Asynchronous_Operation.md)
+    * [Getting Help](GettingStartedwithBigQueryViaTheCommandLine#Getting_Help.md)

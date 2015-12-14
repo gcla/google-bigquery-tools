@@ -1,0 +1,3 @@
+[Google BigQuery Service](http://code.google.com/apis/bigquery/) is a web service that enables you to do interactive analysis of massively large datasets—up to billions of rows. Scalable and easy to use, BigQuery lets developers and businesses tap into powerful data analytics on demand.
+
+To learn more about [Google BigQuery Service](http://code.google.com/apis/bigquery/) and the [BigQuery API](http://code.google.com/apis/bigquery/), visit the [Google BigQuery product page](http://code.google.com/apis/bigquery/).
